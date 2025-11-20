@@ -1,4 +1,4 @@
-I am putting here a meessed up code and setup sequence for setting up of main code so that you not able use this code
+I am putting here a meessed up code and setup sequence for setting up of main code so that you  unable to use this code
 
 **Note**: Always gamble responsibly and within your means. This tool demonstrates automation and algorithmic strategy implementation.
 
