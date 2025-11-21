@@ -11,6 +11,9 @@ A sophisticated Python-based automated betting system that uses computer vision 
 
 ## 🔄 Workflow Guide
 
+![sta](https://github.com/user-attachments/assets/6955ee36-66f5-4860-afa3-40dc760a6f64)
+
+
 ### Step 1: Coordinate Discovery with MouseTracker
 **Purpose**: Find all necessary screen coordinates for automation
 
